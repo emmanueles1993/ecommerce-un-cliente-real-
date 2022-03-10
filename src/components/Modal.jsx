@@ -14,6 +14,18 @@ const ModalCart = ({ show, handleClose }) => {
     removeItem,
     emptyCart,
   } = useCart();
+
+  const sendMessage = () => {
+    let msg = [];
+    for (let item of items) {
+      let textopedido = ` ${item.title}(${item.quantity})`;
+      msg += textopedido;
+    }
+    window.open(
+      `https://api.whatsapp.com/send?phone=${"3013771875"}&text=${"Hola quisiera pedir: "}${msg} precioTotal:${cartTotal}`
+    );
+  };
+
   return (
     <>
       <Modal show={show} onHide={handleClose}>
@@ -79,7 +91,9 @@ const ModalCart = ({ show, handleClose }) => {
                 >
                   limpiar carro
                 </button>
-                <button className="btn btn-primary ms-2">compra ahora</button>
+                <button className="btn btn-primary ms-2" onClick={sendMessage}>
+                  compra ahora
+                </button>
               </div>
             </div>
           </section>

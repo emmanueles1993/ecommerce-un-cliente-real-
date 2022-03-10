@@ -14,10 +14,10 @@ const Header = () => {
         <div className="container-fluid">
           <img
             src={require("../images/logo.png")}
-            className="car-img-top img-fluid"
+            className="car-img-top img-fluid col-8"
           />
           <button className="btn btn-danger ms-2" onClick={handleShow}>
-            <span className="fa fa-shopping-cart me-2"></span>carrito
+            <span className="fa fa-shopping-cart me-2 col-2"></span>carrito
           </button>
         </div>
       </nav>
