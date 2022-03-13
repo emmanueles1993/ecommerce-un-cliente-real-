@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/emmanueles1993/ecommerce-un-cliente-real-/static/css/main.99b0a422.css",
+    "main.js": "/emmanueles1993/ecommerce-un-cliente-real-/static/js/main.9c33c9f1.js",
+    "static/js/787.aadf1d35.chunk.js": "/emmanueles1993/ecommerce-un-cliente-real-/static/js/787.aadf1d35.chunk.js",
+    "static/media/canasta_de_camaron.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/canasta_de_camaron.0fb69e598ce238f8ef77.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/coctel_camaron.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/coctel_camaron.1019654f169f216e51b1.jpg",
+    "static/media/logo.png": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/logo.529f321e7ba424777307.png",
+    "static/media/mojarra_negra.jpeg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/mojarra_negra.ee642d2b6eefdea7523b.jpeg",
+    "static/media/fontawesome-webfont.eot": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/arroz_con_camarones.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/arroz_con_camarones.b7274ac4c650b8961109.jpg",
+    "static/media/platano_maduro_con_queso.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/platano_maduro_con_queso.0d2847da4ee253f699cf.jpg",
+    "static/media/mojarra_blanca.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/mojarra_blanca.964a68f34feecfb82f89.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/carne_asada.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/carne_asada.061e46ded0cfbb25ab89.jpg",
+    "static/media/mojarra_roja.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/mojarra_roja.580f6531e5165db0e5c5.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/michelada_de_cereza.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/michelada_de_cereza.b409a80a27ae44885b0c.jpg",
+    "static/media/picada_de_huevas_filete_o_mixta.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/picada_de_huevas_filete_o_mixta.95c4329e2b8db0ef0fff.jpg",
+    "static/media/patacones_hogao.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/patacones_hogao.97a638843d24f565a7ce.jpg",
+    "static/media/lebranche.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/lebranche.ad2d7621d9a397d43afc.jpg",
+    "static/media/limonada.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/limonada.fcf17d3ec721527ca312.jpg",
+    "static/media/limonada_de_coco_o_cereza.jpg": "/emmanueles1993/ecommerce-un-cliente-real-/static/media/limonada_de_coco_o_cereza.9677b83afcb42636f4bb.jpg",
+    "index.html": "/emmanueles1993/ecommerce-un-cliente-real-/index.html",
+    "main.99b0a422.css.map": "/emmanueles1993/ecommerce-un-cliente-real-/static/css/main.99b0a422.css.map",
+    "main.9c33c9f1.js.map": "/emmanueles1993/ecommerce-un-cliente-real-/static/js/main.9c33c9f1.js.map",
+    "787.aadf1d35.chunk.js.map": "/emmanueles1993/ecommerce-un-cliente-real-/static/js/787.aadf1d35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b0a422.css",
+    "static/js/main.9c33c9f1.js"
+  ]
+}
