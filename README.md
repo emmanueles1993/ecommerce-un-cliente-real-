@@ -11,7 +11,7 @@ E-commerce ¡un cliente real! Es un proyecto donde tendrás acceso a un catálog
 
 [![Categorias.png](https://i.postimg.cc/CxcnB8xC/Categorias.png)](https://postimg.cc/68GpFyRT)
 
-# Cart
+# Carrito
 
 [![Cart.png](https://i.postimg.cc/vZ0bLL9B/Cart.png)](https://postimg.cc/K136mT0S)
 
