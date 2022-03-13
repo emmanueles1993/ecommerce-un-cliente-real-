@@ -4,7 +4,7 @@
 
 E-commerce ¡un cliente real! Es un proyecto donde tendrás acceso a un catálogo de productos de la mejor comida de mar de la costa, gracias a esta tienda online,   el usuario podrá acceder a varias categorías de productos, con sus filtros, y realizar el pedido por medio de la API de WHATSAPP,  todo esto gracias a las tecnologías de React y bootstrap.
 
-#Home
+# Home
 [![1.png](https://i.postimg.cc/xj5HmB8V/1.png)](https://postimg.cc/JtyGV6jp)
 
 # Categorias
