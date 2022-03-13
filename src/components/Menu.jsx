@@ -1,6 +1,4 @@
 import React from "react";
-import Itemcard from "./Itemcard";
-import Data from "./Data";
 import GalleryReact from "./GalleryReact";
 
 const Menu = () => {

@@ -11,7 +11,7 @@ const GalleryReact = () => {
     if (updatedItems == null) {
       setItems(null);
     }
-    setItems(updatedItems);
+    setItems(updatedItems); 
   };
 
   return (

@@ -20,9 +20,10 @@ const ModalCart = ({ show, handleClose }) => {
     for (let item of items) {
       let textopedido = ` ${item.title}(${item.quantity})`;
       msg += textopedido;
+      console.log(msg)
     }
     window.open(
-      `https://api.whatsapp.com/send?phone=${"3013771875"}&text=${"Hola quisiera pedir: "}${msg} precioTotal:${cartTotal}`
+      `https://api.whatsapp.com/send?phone=${"3004963182"}&text=${"Hola quisiera pedir: "}${msg} precioTotal:${cartTotal}`
     );
   };
 
@@ -34,7 +35,7 @@ const ModalCart = ({ show, handleClose }) => {
         </Modal.Header>
         <Modal.Body>
           {" "}
-          <section className="py-4 container">
+          <section className="py-4 container ">
             <div className="row justify-content-center">
               <div className="col-12">
                 <h5>
@@ -44,9 +45,9 @@ const ModalCart = ({ show, handleClose }) => {
                   <tbody>
                     {items.map((item, index) => {
                       return (
-                        <tr key={index}>
+                        <tr className="d-flex flex-wrap" key={index}>
                           <td>
-                            <img src={item.img} style={{ height: "6rem" }} />
+                            <img src={item.img} style={{ height: "2rem" }} />
                           </td>
                           <td>{item.title}</td>
                           <td>{item.price}</td>
@@ -98,14 +99,7 @@ const ModalCart = ({ show, handleClose }) => {
             </div>
           </section>
         </Modal.Body>
-        <Modal.Footer>
-          <Button variant="secondary" onClick={handleClose}>
-            Cerrar
-          </Button>
-          <Button variant="primary" onClick={handleClose}>
-            Guardar cambios
-          </Button>
-        </Modal.Footer>
+        <Modal.Footer></Modal.Footer>
       </Modal>
     </>
   );

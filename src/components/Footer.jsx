@@ -3,8 +3,8 @@ import "./Footer.css";
 const Footer = () => {
   let numeros = [
     { name: "Luis", number: "+573004963182" },
-    { name: "Adrian", number: "+573004963182" },
-    { name: "andrew", number: "+573004963182" },
+    { name: "Adrian", number: "+573013771875" },
+    { name: "andrew", number: "+573145806785" },
   ];
   return (
     <footer className="footer text-center footer-expand-lg text-lg-start footer-light starmarine">
