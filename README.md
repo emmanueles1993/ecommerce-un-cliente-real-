@@ -29,7 +29,7 @@ E-commerce ¡un cliente real! Es un proyecto donde tendrás acceso a un catálog
 
 ## Despliegue
 
-GitHub Pages
+[netlify](https://wonderful-leavitt-2939ab.netlify.app/)
 
 ## Autores
 
